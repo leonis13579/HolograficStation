@@ -1,0 +1,9 @@
+[submodule "Packages\\"]
+	path = Packages\\
+	url = https://github.com/RealityFamily/StateControl_Unity
+[submodule "Packages/"]
+	path = Packages/
+	url = https://github.com/RealityFamily/StateControl_Unity
+[submodule "Packages/StateControl"]
+	path = Packages/StateControl
+	url = https://github.com/RealityFamily/StateControl_Unity
